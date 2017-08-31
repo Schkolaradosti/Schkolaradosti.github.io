@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator>
+  <link href="https://example.github.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://example.github.io/" rel="alternate" type="text/html" />
+  <updated>2017-08-31T19:12:49+02:00</updated>
+  <id>https://example.github.io/</id>
+
+  
+    <title type="html">Русская школа Менхенгладбаха</title>
+  
+
+  
+    <subtitle>Русская Школа «Радуга Мёнхенгладбах» - одна из самых известных и лучших школ Германии. Педагогический коллектив занимается развитием и обучением детей из русскоговорящих семей.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">расписание</title>
+      <link href="https://example.github.io/2014/07/21/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5/" rel="alternate" type="text/html" title="расписание" />
+      <published>2014-07-21T00:00:00+02:00</published>
+      <updated>2014-07-21T00:00:00+02:00</updated>
+      <id>https://example.github.io/2014/07/21/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5</id>
+      <content type="html" xml:base="https://example.github.io/2014/07/21/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">новости</title>
+      <link href="https://example.github.io/web%20development/2014/07/17/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/" rel="alternate" type="text/html" title="новости" />
+      <published>2014-07-17T00:00:00+02:00</published>
+      <updated>2014-07-17T00:00:00+02:00</updated>
+      <id>https://example.github.io/web%20development/2014/07/17/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8</id>
+      <content type="html" xml:base="https://example.github.io/web%20development/2014/07/17/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">классы</title>
+      <link href="https://example.github.io/web%20development/2014/07/16/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B/" rel="alternate" type="text/html" title="классы" />
+      <published>2014-07-16T00:00:00+02:00</published>
+      <updated>2014-07-16T00:00:00+02:00</updated>
+      <id>https://example.github.io/web%20development/2014/07/16/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B</id>
+      <content type="html" xml:base="https://example.github.io/web%20development/2014/07/16/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">кружки</title>
+      <link href="https://example.github.io/web%20development/2014/07/15/%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%B8/" rel="alternate" type="text/html" title="кружки" />
+      <published>2014-07-15T00:00:00+02:00</published>
+      <updated>2014-07-15T00:00:00+02:00</updated>
+      <id>https://example.github.io/web%20development/2014/07/15/%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%B8</id>
+      <content type="html" xml:base="https://example.github.io/web%20development/2014/07/15/%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%B8/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">оплата</title>
+      <link href="https://example.github.io/web%20development/2014/07/15/%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B0/" rel="alternate" type="text/html" title="оплата" />
+      <published>2014-07-15T00:00:00+02:00</published>
+      <updated>2014-07-15T00:00:00+02:00</updated>
+      <id>https://example.github.io/web%20development/2014/07/15/%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B0</id>
+      <content type="html" xml:base="https://example.github.io/web%20development/2014/07/15/%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B0/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">видео</title>
+      <link href="https://example.github.io/web%20development/2014/07/14/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/" rel="alternate" type="text/html" title="видео" />
+      <published>2014-07-14T00:00:00+02:00</published>
+      <updated>2014-07-14T00:00:00+02:00</updated>
+      <id>https://example.github.io/web%20development/2014/07/14/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE</id>
+      <content type="html" xml:base="https://example.github.io/web%20development/2014/07/14/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
